@@ -1,2 +1,30 @@
 # awesome-startup-postmortems
-A curated list of startup postmortems to learn from
+A curated list of startup postmortems to learn from. Written by founders for founders.
+
+Contributions are welcome.
+
+- [Formspring - A Postmortem](https://capwatkins.com/blog/formspring-a-postmortem)
+- [Outbox is Shutting Down–A Note of Gratitude](https://outboxmail.tumblr.com/post/74086768959/outbox-is-shutting-down-a-note-of-gratitude)
+- [Key Lessons From Cryptine Network’s Failure*](https://andrewbfife.blogspot.com/2006/07/key-lessons-from-cryptine-networks.html)
+- [A Postmortem - Tract](https://buildwithtract.com)
+- [Post Mortem on a Failed Product](https://davidcummings.org/2010/06/04/post-mortem-on-a-failed-product/)
+- [Lessons Learned](https://devver.wordpress.com/2010/04/26/lessons-learned/)
+- [My First Startup](https://edjs.dev/blog/my-first-startup/)
+- [Lessons from a startup failure](https://fabricegrinda.com/lessons-from-a-startup-failure/)
+- [Postmortem Of My First Company (A Reposting)](https://keithbnowak.com/post/55830173333/postmortem-of-my-first-company-a-reposting)
+- [Postmortem of a Venture-backed Startup](https://medium.com/@brett1211/postmortem-of-a-venture-backed-startup-72c6f8bec7df)
+- [The right words to say goodbye](https://medium.com/@chloeroose/the-right-words-to-say-goodbye-8a2218b32f92)
+- [Play by your own rules.](https://medium.com/@jw/play-by-your-own-rules-6152adc41de9)
+- [Moz Returns to SEO](https://medium.com/@randfish/moz-returns-to-seo-5a330c0e6eb2#.n48oxyoek)
+- [Lessons learned from a failed startup](https://medium.com/swlh/lessons-learned-from-a-failed-startup-6f0dd86ddf95)
+- [ArsDigita: From Start-Up to Bust-Up](https://random.waxy.org/arsdigita/)
+- [Startup lessons learned from my failed startup](https://sergioschuler.com/startup-lessons-learned-from-my-failed-startup-ceb9a4f656d7)
+- [The Uphill Battle Of Social Event Sharing: A Post-Mortem for Plancast](https://techcrunch.com/2012/01/22/post-mortem-for-plancast/)
+- [The Decline And Fall Of Flowtab, A Startup Story](https://techcrunch.com/2013/08/31/the-decline-and-fall-of-flowtab-a-startup-story/)
+- [10 lessons from a failed startup](https://venturebeat.com/entrepreneur/10-lessons-from-a-failed-startup/)
+- [Postmortem of My First Startup (Approkers)](https://wajahatkarim.com/2016/06/postmortem-of-my-first-startup-approkers/)
+- [Bevy Post-Mortem :  My Sharing Economy Startup & Failure](https://www.colinkeeley.com/blog/bevy-post-mortemmy-sharing-economy-startupnbspfailure)
+- [Revisiting the Standout Jobs postmortem; Part I](https://www.focusedchaos.co/p/revisiting-the-standout-jobs-postmortem)
+- [Post-mortem of our 1st YC startup: a Reverse ETL](https://www.getlago.com/blog/post-mortem-of-our-1st-yc-startup-a-reverse-etl)
+- [Startup Diary: Read, listen and research to avoid fatal mistakes](https://www.independent.ie/business/technology/startup-diary-read-listen-and-research-to-avoid-fatal-mistakes/37107083.html)
+- [Startup Lessons I Needed to Learn First Hand (But Maybe You Don’t)](https://www.nancyhua.com/2020/10/01/startup-lessons-i-needed-to-learn-first-hand-but-maybe-you-dont/)
