@@ -28,3 +28,4 @@ Contributions are welcome.
 - [Post-mortem of our 1st YC startup: a Reverse ETL](https://www.getlago.com/blog/post-mortem-of-our-1st-yc-startup-a-reverse-etl)
 - [Startup Diary: Read, listen and research to avoid fatal mistakes](https://www.independent.ie/business/technology/startup-diary-read-listen-and-research-to-avoid-fatal-mistakes/37107083.html)
 - [Startup Lessons I Needed to Learn First Hand (But Maybe You Don’t)](https://www.nancyhua.com/2020/10/01/startup-lessons-i-needed-to-learn-first-hand-but-maybe-you-dont/)
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
